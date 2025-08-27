@@ -23,7 +23,7 @@ const logBrother = () => {
   />
   <header>
     <ul class="list">
-      <li>Папака</li>
+      <li>Палка</li>
       <li>О нас</li>
       <li>Попка</li>
       <li>Какашечка</li>
