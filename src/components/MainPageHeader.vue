@@ -6,7 +6,7 @@ const logMama = () => {
 };
 
 const logPapa = () => {
-  console.log("papa");
+  console.log("fsdfsdfds");
 };
 
 const logBrother = () => {
